@@ -2,7 +2,6 @@
 <h1 align="center">Bienvenidos a mi perfil de alumno de GitHub!</h1>
 </div>
 
-[![La Conservera](https://rotulacionesmeseguer.es/wp-content/uploads/2014/12/ConserveraBody01.jpg)](https://sites.google.com/view/fplaconservera)
 
 ## Estudiando 📚
 
